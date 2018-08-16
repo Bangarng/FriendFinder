@@ -3,7 +3,7 @@
 var friendsArray = [
     {
         "name":"Billie",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo":"https://www.askideas.com/media/39/Goat-Closeup-Face-Funny-Image.jpg",
         "scores":[
             5,
             3,
